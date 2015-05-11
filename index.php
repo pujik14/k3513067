@@ -1,6 +1,6 @@
 <?php
 //KOMENTAR UNTUK TUGAS FOSS
-// NIM K3513067
+
 /*
  *---------------------------------------------------------------
  * APPLICATION ENVIRONMENT
